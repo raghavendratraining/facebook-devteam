@@ -6,5 +6,8 @@ now am adding dev team
 =======
 now iam add this line for review the file 
 its very good 
+<<<<<<< HEAD
 hi im updating this one now ....
 >>>>>>> 45e90a6 (updated)
+=======
+>>>>>>> 593439098c040f769c91086759e1181d17b11e59
